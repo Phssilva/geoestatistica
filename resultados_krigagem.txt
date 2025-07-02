@@ -1,0 +1,26 @@
+=== RESULTADOS DA KRIGAGEM ORDINÁRIA ===
+
+Parâmetros do modelo esférico:
+C0 (efeito pepita): 6.5572
+C1 (patamar parcial): 15.6714
+a (alcance): 104.1889
+
+Parâmetros do modelo exponencial:
+C0 (efeito pepita): 5.2636
+C1 (patamar parcial): 18.8732
+a (alcance): 151.6199
+
+Parâmetros do modelo gaussiano:
+C0 (efeito pepita): 9.1771
+C1 (patamar parcial): 13.3829
+a (alcance): 95.2249
+
+Estatísticas das estimativas:
+Modelo Esférico: min=0.6597, max=12.8031, média=6.7338
+Modelo Exponencial: min=0.9641, max=12.4333, média=6.7585
+Modelo Gaussiano: min=-372.0588, max=216.4555, média=-0.2744
+
+Estatísticas das variâncias:
+Modelo Esférico: min=2.9254, max=15.0957, média=10.9681
+Modelo Exponencial: min=3.4019, max=17.9226, média=11.8363
+Modelo Gaussiano: min=5.6577, max=13.3829, média=13.0218

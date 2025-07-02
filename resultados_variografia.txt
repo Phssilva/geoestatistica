@@ -1,0 +1,30 @@
+=== RESULTADOS DA ANÁLISE VARIOGRÁFICA ===
+
+Direção: 0°
+Modelo Esférico: C0=2.1378, C1=11.7631, a=125.4156, MSE=4.979342
+Modelo Exponencial: C0=0.4221, C1=14.7963, a=164.3520, MSE=5.265674
+Modelo Gaussiano: C0=3.7565, C1=10.0885, a=104.1655, MSE=5.179577
+Melhor modelo: Esférico (MSE=4.979342)
+
+Direção: 45°
+Modelo Esférico: C0=0.0000, C1=15.3684, a=87.5538, MSE=3.584414
+Modelo Exponencial: C0=0.0000, C1=16.1258, a=113.7355, MSE=4.965454
+Modelo Gaussiano: C0=1.5627, C1=13.7673, a=70.8702, MSE=3.663182
+Melhor modelo: Esférico (MSE=3.584414)
+
+Direção: 90°
+Modelo Esférico: C0=2.4506, C1=18.2599, a=85.6963, MSE=30.748589
+Modelo Exponencial: C0=0.0000, C1=20.7017, a=86.2753, MSE=35.954083
+Modelo Gaussiano: C0=5.0762, C1=15.6790, a=72.6607, MSE=30.684776
+Melhor modelo: Gaussiano (MSE=30.684776)
+
+Direção: 135°
+Modelo Esférico: C0=6.5572, C1=15.6714, a=104.1889, MSE=3.640545
+Modelo Exponencial: C0=5.2636, C1=18.8732, a=151.6199, MSE=4.643911
+Modelo Gaussiano: C0=9.1771, C1=13.3829, a=95.2249, MSE=3.535696
+Melhor modelo: Gaussiano (MSE=3.535696)
+
+=== RESULTADO FINAL ===
+Melhor direção: 135°
+Melhor modelo: Gaussiano
+MSE: 3.535696
