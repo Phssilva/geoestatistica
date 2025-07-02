@@ -1,0 +1,8 @@
+x_min: 242.52
+x_max: 503.52
+y_min: 108.15
+y_max: 325.15
+tamanho_celula_x: 26.1
+tamanho_celula_y: 21.7
+n_celulas_x: 10
+n_celulas_y: 10
